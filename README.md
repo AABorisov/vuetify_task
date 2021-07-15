@@ -1,4 +1,4 @@
-# smsadmin
+# vuetify test
 
 ## Project setup
 ```
